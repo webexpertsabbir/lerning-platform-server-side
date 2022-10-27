@@ -26,10 +26,10 @@
     {
         "id": 4,
         "category": "Front End",
-        "name": "Full Stack Web Development with React Hooks and Redux",
-        "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-programming-course-01.jpg",
-        "expartice": "Intermediate",
-        "duration": "4h 36m"
+        "name": "WordPress Basic Tutorial",
+        "img": "https://websitedemos.net/online-courses-02/wp-content/uploads/sites/542/2020/04/wordpress.jpg",
+        "expartice": "Beginner",
+        "duration": "5h 36m"
     },
     {
         "id": 5,
@@ -42,8 +42,8 @@
     {
         "id": 6,
         "category": "Front End",
-        "name": "Complete Python Masterclass for Web Development",
-        "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-programming-course-featured-video.jpg",
+        "name": "E-Commerce Course",
+        "img": "https://websitedemos.net/online-courses-02/wp-content/uploads/sites/542/2020/04/ecommerce.jpg",
         "expartice": "Intermediate",
         "duration": "5h 36m"
     }

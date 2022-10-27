@@ -5,22 +5,22 @@
         "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-coding-course-html-5-lesson-cover-img.jpg",
         "description": "Eu adipiscing nec erat amet at aliquam blandit gravida massa suscipit massa fames nibh dapibus tristique dolor a cursus maecenas praesent elit donec faucibus eget commodo ultricies amet molestie nunc sit sed enim magna et viverra purus blandit amet a cursus elementum ipsum sit accumsan blandit pretium vitae mollis sociis mauris nulla varius bibendum fames facilisis elit, donec et ultrices neque mauris, aenean morbi.",
         "category": "Front End",
-        "expartice": "Intermediate",
-        "duration": "4h 36m"
+        "expartice": "Beginner",
+        "duration": "2h 24m"
     },
     {
         "_id": "2",
-        "title": "HTML 5 Web Component Fundamental",
-        "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-coding-course-html-5-lesson-cover-img.jpg",
+        "title": "Mastering CSS 3 Flexbox With Real World Projects",
+        "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-programming-course-02.jpg",
         "description": "Eu adipiscing nec erat amet at aliquam blandit gravida massa suscipit massa fames nibh dapibus tristique dolor a cursus maecenas praesent elit donec faucibus eget commodo ultricies amet molestie nunc sit sed enim magna et viverra purus blandit amet a cursus elementum ipsum sit accumsan blandit pretium vitae mollis sociis mauris nulla varius bibendum fames facilisis elit, donec et ultrices neque mauris, aenean morbi.",
         "category": "Front End",
-        "expartice": "Intermediate",
-        "duration": "4h 36m"
+        "expartice": "Beginner",
+        "duration": "3h 18m"
     },
     {
         "_id": "3",
-        "title": "HTML 5 Web Component Fundamental",
-        "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-coding-course-html-5-lesson-cover-img.jpg",
+        "title": "Full Stack Web Development with React Hooks and Redux",
+        "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-programming-course-01.jpg",
         "description": "Eu adipiscing nec erat amet at aliquam blandit gravida massa suscipit massa fames nibh dapibus tristique dolor a cursus maecenas praesent elit donec faucibus eget commodo ultricies amet molestie nunc sit sed enim magna et viverra purus blandit amet a cursus elementum ipsum sit accumsan blandit pretium vitae mollis sociis mauris nulla varius bibendum fames facilisis elit, donec et ultrices neque mauris, aenean morbi.",
         "category": "Front End",
         "expartice": "Intermediate",
@@ -28,27 +28,27 @@
     },
     {
         "_id": "4",
-        "title": "HTML 5 Web Component Fundamental",
-        "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-coding-course-html-5-lesson-cover-img.jpg",
-        "description": "Eu adipiscing nec erat amet at aliquam blandit gravida massa suscipit massa fames nibh dapibus tristique dolor a cursus maecenas praesent elit donec faucibus eget commodo ultricies amet molestie nunc sit sed enim magna et viverra purus blandit amet a cursus elementum ipsum sit accumsan blandit pretium vitae mollis sociis mauris nulla varius bibendum fames facilisis elit, donec et ultrices neque mauris, aenean morbi.",
+        "title": "WordPress Basic Tutorial",
+        "img": "https://websitedemos.net/online-courses-02/wp-content/uploads/sites/542/2020/04/wordpress.jpg",
+        "description": "Repellat perspiciatis cum! Doloremque ea viverra eu doloremque tellus aliqua gravida fuga dolorum augue, donec beatae. Class urna et doloremque facilisis autem risus fuga nullam quibusdam, tortor deleniti, accumsan dolorem? Posuere hac?Tellus maiores ullam ullamcorper, nostrud lacinia veniam torquent? Consequuntur a lobortis magnam mollis ac, explicabo nobis, pretium omnis, adipisci placerat, nostrum reiciendis? Illo natoque provident potenti ullamcorper quis hymenaeos lectus nobis nobis dui.",
         "category": "Front End",
-        "expartice": "Intermediate",
+        "expartice": "Beginner",
         "duration": "4h 36m"
     },
     {
         "_id": "5",
-        "title": "HTML 5 Web Component Fundamental",
-        "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-coding-course-html-5-lesson-cover-img.jpg",
+        "title": "Complete Python Masterclass for Web Development",
+        "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-programming-course-featured-video.jpg",
         "description": "Eu adipiscing nec erat amet at aliquam blandit gravida massa suscipit massa fames nibh dapibus tristique dolor a cursus maecenas praesent elit donec faucibus eget commodo ultricies amet molestie nunc sit sed enim magna et viverra purus blandit amet a cursus elementum ipsum sit accumsan blandit pretium vitae mollis sociis mauris nulla varius bibendum fames facilisis elit, donec et ultrices neque mauris, aenean morbi.",
-        "category": "Front End",
+        "category": "Masiean",
         "expartice": "Intermediate",
-        "duration": "4h 36m"
+        "duration": "5h 36m"
     },
     {
         "_id": "6",
-        "title": "HTML 5 Web Component Fundamental",
-        "img": "https://websitedemos.net/online-coding-course-02/wp-content/uploads/sites/713/2020/10/online-coding-course-html-5-lesson-cover-img.jpg",
-        "description": "Eu adipiscing nec erat amet at aliquam blandit gravida massa suscipit massa fames nibh dapibus tristique dolor a cursus maecenas praesent elit donec faucibus eget commodo ultricies amet molestie nunc sit sed enim magna et viverra purus blandit amet a cursus elementum ipsum sit accumsan blandit pretium vitae mollis sociis mauris nulla varius bibendum fames facilisis elit, donec et ultrices neque mauris, aenean morbi.",
+        "title": "E-Commerce Course",
+        "img": "https://websitedemos.net/online-courses-02/wp-content/uploads/sites/542/2020/04/ecommerce.jpg",
+        "description": "In porttitor ipsum eu justo condimentum euismod. Ut ullamcorper viverra neque a porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec sit amet viverra purus.",
         "category": "Front End",
         "expartice": "Intermediate",
         "duration": "4h 36m"
